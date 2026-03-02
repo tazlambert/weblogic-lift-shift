@@ -2,7 +2,7 @@
 
 ## About this hands-on Hands On Lab ##
 
-This Hands On Lab main purpose is to show how to do lift and shift of existing WebLogic Domain so that WebLogic's user will be able to experience WebLogic's improvement on Oracle Cloud Infrastructure. This hands on lab is made based on the [OKE OCIR Demo](https://github.com/yyeung13/oke_ocir_demo/) also various references and has been tested by May 2020. If you have any questions or inquiries please email me to lambertus.wardana@oracle.com.
+This Hands On Lab main purpose is to show how to do lift and shift of existing WebLogic Domain so that WebLogic's user will be able to experience WebLogic's improvement on Oracle Cloud Infrastructure. This hands on lab is made based on the [OKE OCIR Demo](https://github.com/yyeung13/oke_ocir_demo/) also various references and has been tested by May 2020.
 
 ## Overview
 
